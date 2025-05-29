@@ -122,7 +122,7 @@ Students with healthier lifestyles and stronger academic habits generally scored
 This project offered a closer look at how everyday habits can influence academic performance. By analyzing the data, we saw clear connections—students who kept a balanced routine with enough sleep and steady study hours generally did better on their exams. While more advanced models like Random Forest gave solid predictions, the transparency of linear regression made it a practical choice. Overall, the results highlight the real impact of lifestyle choices on learning, and they serve as a reminder that small daily habits can add up to big differences in outcomes.
 
 ## Repository Contents
-* FINAL_PROJECT_TEECE_2.ipynb: Full notebook with code and commentary
+* MANAOG-SALES_CapstoneProject.ipynb: Full notebook with code and commentary
 
 * student_habits_performance.csv: Dataset used
 
